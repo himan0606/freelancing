@@ -1,0 +1,31 @@
+.avatar-img{
+  display: block;
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  margin: auto;
+  border-radius: 100%;
+  background-color: white;
+}
+
+.custum{
+  width: 100px;
+  border-radius: 100%;
+  display:block;
+  margin: auto
+
+}
+
+.login-body{
+  min-height: 100vh;
+}
+
+.user-img{
+  height: 250px;
+  object-fit: cover;
+  object-position: top;
+}
+
+.font{
+  
+}
