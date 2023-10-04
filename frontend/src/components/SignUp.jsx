@@ -79,8 +79,9 @@ const SignUp = () => {
       initial={{ x: '100%' }}
       animate={{ x: 0 }}
       exit={{ x: '-100%' }}
-      transition={{ duration: 0.5, stiffness: 100, type: 'spring' }}>
-      <div className="form-body">
+      transition={{ duration: 0.5, stiffness: 100, type: 'spring' }}
+      className="card-body bg-success d-flex align-items-center">
+      <div className="form-body  ">
         <div className="formcontainer">
           <form onSubmit={signUpform.handleSubmit}>
             <h2 className="main-heading">SignUp Here</h2>

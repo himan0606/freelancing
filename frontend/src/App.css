@@ -26,6 +26,8 @@
   object-position: top;
 }
 
-.font{
-  
+.body{
+  background-color: aquamarine;
+  height: 100%;
 }
+  
