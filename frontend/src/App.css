@@ -18,6 +18,8 @@
 
 .login-body{
   min-height: 100vh;
+  background-color: rgba(0, 0, 0, 0.815);
+  background-image : url(https://www.vecteezy.com/vector-art/5592423-abstract-blue-and-red-light-out-technology-background-hitech-communication-concept);
 }
 
 .user-img{
@@ -29,5 +31,11 @@
 .body{
   background-color: aquamarine;
   height: 100%;
+}
+
+.sign{
+  min-height: 100vh;
+  background-color: darkslategray;
+  border-radius: 10%;
 }
   

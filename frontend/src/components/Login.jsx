@@ -62,7 +62,7 @@ const Login = () => {
       exit={{ x: '-100%' }}
       transition={{ duration: 0.5, stiffness: 100, type: 'spring', damping: 4 }}
 
-      className="login-body bg-dark d-flex align-items-center">
+      className="login-body  d-flex align-items-center">
       <div className="col-md-3 mx-auto my-auto">
         <div className="card shadow">
           <div className="card-body ">
